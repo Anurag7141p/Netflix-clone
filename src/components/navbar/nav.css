@@ -1,0 +1,12 @@
+.logo {
+  width: 200px;
+  margin: 20px;
+  padding-left: 20px;
+}
+
+.nav {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  z-index: 1;
+}
